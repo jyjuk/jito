@@ -1,0 +1,19 @@
+data/
+
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Середовище
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
