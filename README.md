@@ -108,4 +108,5 @@ tests/
   test_ledger.py  — unit tests for all core logic
 Dockerfile
 requirements.txt
+DEVELOPMENT_LOG.md
 ```
